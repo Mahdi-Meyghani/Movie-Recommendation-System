@@ -109,7 +109,7 @@ In collaborative filtering, the app makes predictions based on user behavior (ra
 - Predict user ratings for movies, then recommend movies based on those predictions.
 
 # Data
-The dataset used for training and recommendations is loaded through pandas. You can replace the dataset with your own by putting data instead of `credits.csv`, `movies.csv` and `ratings`.
+The dataset used for training and recommendations is loaded through pandas. You can replace the dataset with your own by putting your data instead of `credits.csv`, `movies.csv` and `ratings.csv`.
 
 # Contributing
 Feel free to open issues and submit pull requests if you would like to improve the app.
